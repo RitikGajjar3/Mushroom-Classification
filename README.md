@@ -29,7 +29,6 @@
 
 <h2>📦 Data Overview</h2>
 In this problem you are given a Mushrooms Data set consisting of following features
-<br>
 
 - Attribute Information: (classes: edible=e, poisonous=p)
 - cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
@@ -78,7 +77,7 @@ Jupyter notebook (IPython)
 ## 📚 Reference
 ```python
 
-[Dataset]("https://www.kaggle.com/uciml/mushroom-classification")
+Dataset("https://www.kaggle.com/uciml/mushroom-classification")
 
 Image("https://pixabay.com/photos/fungi-mushroom-nature-forest-4579575/")
 
