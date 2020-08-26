@@ -30,6 +30,7 @@
 <h2>📦 Data Overview</h2>
 In this problem you are given a Mushrooms Data set consisting of following features
 <br>
+
 - Attribute Information: (classes: edible=e, poisonous=p)
 - cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 - cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
