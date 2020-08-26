@@ -9,7 +9,7 @@
          alt="Naive Bayes-Neighbor">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
          alt="contributions-welcome">
-    <a href="https://github.com/RitikGajjar3/Mushroom-Classification">
+    <a href="https://github.com/RitikGajjar3/Mushroom-Classification/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
          alt="license-MIT">
 </p>
@@ -87,7 +87,7 @@ Image("https://pixabay.com/photos/fungi-mushroom-nature-forest-4579575/")
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/RitikGajjar3/Mushroom-Classification)
+This software is licensed under the [MIT](https://github.com/RitikGajjar3/Mushroom-Classification/blob/master/LICENSE)
 
 MIT © RitikGajjar3
 
